@@ -4,7 +4,7 @@
     "description": "Zend Soap based web services with Symfony2",
     "keywords": [ "zend-soap" ],
     "homepage": "https://github.com/Burti/zend-soap",
-    "authors": [,
+    "authors": [
         {
             "name": "Caio Paiola",
             "email": "caio____@live.com"
