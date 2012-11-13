@@ -4,6 +4,8 @@
     "description": "Zend Soap based web services with Symfony2",
     "keywords": [ "zend-soap" ],
     "homepage": "https://github.com/Burti/zend-soap",
+    "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "Caio Paiola",
