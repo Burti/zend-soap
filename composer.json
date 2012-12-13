@@ -3,13 +3,13 @@
     "type": "symfony-bundle",
     "description": "Zend Soap based web services with Symfony2",
     "keywords": [ "zend-soap" ],
-    "homepage": "https://github.com/Burti/zend-soap",
-    "license": "MIT",
+    "homepage": "http://framework.zend.com/",
+    "license": "BSD-new",
     "type": "library",
     "authors": [
         {
-            "name": "Caio Paiola",
-            "email": "caio____@live.com"
+            "name": "Zend",
+            "homepage": "http://framework.zend.com/"
         }
     ],
     "require": {
